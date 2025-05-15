@@ -17,8 +17,8 @@ This application is a modern, multi-agent data analysis platform for sales and b
 ![Data Overview](img/Sales_overview.png)
 
 ### Sales Analysis Tab
-![Sales Analysis](img/sales_analysis_1.png)
-![Sales Analysis](img/sales_analysis_2.png)
+![Sales Analysis](img/Sales_analysis_1.png)
+![Sales Analysis](img/Sales_analysis_2.png)
 
 ### Business Intelligence Tab
 ![Business Intelligence](img/BI_1.png)
