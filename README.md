@@ -29,10 +29,10 @@ This application is a modern, multi-agent data analysis platform for sales and b
 ![Forecasting](img/Forecast_2.png)
 
 ### Visualizations Tab
-![Visualizations](img/viz_1.png)
-![Visualizations](img/viz_2.png)
-![Visualizations](img/viz_3.png)
-![Visualizations](img/viz_4.png)
+![Visualizations](img/Viz_1.png)
+![Visualizations](img/Viz_2.png)
+![Visualizations](img/Viz_3.png)
+![Visualizations](img/Viz_4.png)
 
 ### AI Analysis Tab
 ![AI Analysis](img/AI_analysis.png)
