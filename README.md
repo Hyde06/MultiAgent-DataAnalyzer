@@ -11,6 +11,35 @@ This application is a modern, multi-agent data analysis platform for sales and b
 - **Advanced Visualizations:** Both sales-specific and advanced (PCA, clustering, correlation) visualizations, each with AI explanations.
 - **Modern UI/UX:** Clean, responsive interface with chat bubbles, auto-scroll, and intuitive navigation.
 
+## Screenshots
+
+### Data Overview Tab
+![Data Overview](img/Sales_overview.png)
+
+### Sales Analysis Tab
+![Sales Analysis](img/sales_analysis_1.png)
+![Sales Analysis](img/sales_analysis_2.png)
+
+### Business Intelligence Tab
+![Business Intelligence](img/BI_1.png)
+![Business Intelligence](img/BI_2.png)
+
+### Forecasting Tab
+![Forecasting](img/Forecast_1.png)
+![Forecasting](img/Forecast_2.png)
+
+### Visualizations Tab
+![Visualizations](img/viz_1.png)
+![Visualizations](img/viz_2.png)
+![Visualizations](img/viz_3.png)
+![Visualizations](img/viz_4.png)
+
+### AI Analysis Tab
+![AI Analysis](img/AI_analysis.png)
+
+### Data Chat Tab
+![Data Chat](img/Chatbot.png)
+
 ## Project Structure
 - `main.py` — Streamlit app entry point, orchestrates agents and UI
 - `core/agents.py` — Agent classes for each analysis domain and the AI Analysis agent

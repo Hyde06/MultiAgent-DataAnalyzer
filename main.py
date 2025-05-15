@@ -428,7 +428,7 @@ def main():
             if send_clicked and user_input.strip():
                 st.session_state.chat_loading = True
                 # Gather context from all previous analysis
-                sales_insights = sales_agent.generate_sales_insights()
+                sales_insights = sales_agent.analysis_results
                 bi_kpis = bi_agent.track_kpis()
                 territory_analysis = bi_agent.analyze_territories()
                 competitor_analysis = bi_agent.analyze_competitors()
